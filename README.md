@@ -1,6 +1,8 @@
 Matlab Quadrotor Simulator
 ===============
 
+**This project is a part of [StarryPilot](https://github.com/JcZou/StarryPilot) autopilot software**
+
 ![](./res/matsim.png)
 
 ## Control Method
